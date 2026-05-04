@@ -12,8 +12,8 @@ A clean and professional portfolio website showcasing my skills, projects, and e
 - Google Fonts (Inter)
 - Git / GitHub Pages
 
-## Project Structure
-- `Kittinat_portfolio/` - Portfolio source files
+## ðŸ“‚ Project Structure
+- `docs/` - Portfolio source files (Served via GitHub Pages)
   - `index.html` - Main portfolio page
   - `style.css` - Custom dark theme styling
 - `README.md` - Project documentation
@@ -24,7 +24,8 @@ A clean and professional portfolio website showcasing my skills, projects, and e
    ```bash
    git clone https://github.com/KittinatTa/Kittinat-Simple-Portfolio.git
    ```
-2. Open `Kittinat_portfolio/index.html` in your browser.
+2. Open `docs/index.html` in your browser.
+
 
 ---
 Created by [KittinatTa](https://github.com/KittinatTa)
